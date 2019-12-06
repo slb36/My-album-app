@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 6%; margin-top: 5%; 
+    font-weight: bold;
+    
+}
+.logo {
+    display: flex;
+    justify-content: space-between;
+   
+
+    
+}
+
+.button {
+    display: flex;
+    justify-content:space-between
+
+    
+}
+.header-img {
+    width: 30px;
+}
+
+.button button {
+    background-color: skyblue;
+border-radius: 4px;
+font-weight: bold;
+}
