@@ -1,30 +1,51 @@
 .menu {
     display: flex;
     justify-content: space-between;
-    padding: 5% 6%; margin-top: 5%; 
+    padding: 2% 10%; margin-top: 2%; 
     font-weight: bold;
     
 }
 .logo {
     display: flex;
     justify-content: space-between;
-   
-
     
 }
 
-.button {
+.button-search {
     display: flex;
-    justify-content:space-between
-
-    
+    justify-content:space-between;   
 }
+
 .header-img {
     width: 30px;
+    margin-right: 15px;
 }
 
-.button button {
+.button-search button {
     background-color: skyblue;
 border-radius: 4px;
 font-weight: bold;
+margin-right: 10px;
+}
+
+.logo2 {
+display:flex;
+justify-content: space-between;
+align-items: center;
+
+
+}
+
+.box1aimage{
+    width: 250px;
+
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: red;
+    
+   
 }
